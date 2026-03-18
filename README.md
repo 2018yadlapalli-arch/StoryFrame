@@ -47,6 +47,8 @@ Take a photo of an F-16 jet banking hard at an airshow. The app would:
 
 **No video editing skills needed. No AI knowledge needed. Just a photo.**
 
+▶ [Watch sample videos on Google Drive](https://drive.google.com/drive/folders/1YN4CwYBOezkg5-BkIotmMbkg1_ogrc_M?usp=sharing)
+
 ---
 
 ## Running the App
