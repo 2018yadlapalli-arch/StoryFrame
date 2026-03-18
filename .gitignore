@@ -1,0 +1,8 @@
+.next/
+node_modules/
+.env.local
+data/uploads/
+data/frames/
+data/videos/
+data/jobs/
+*.mp4
